@@ -29,6 +29,18 @@ Currently, I work as a **freelance web developer** while exploring areas that de
 
 ---
 
+### 📈 Activity
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Bryan-Serafim&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Bryan-Serafim&hide_border=true&theme=graywhite" />
+</p>
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Serafim&layout=compact&hide_border=true&theme=graywhite" />
+</p>
+
+---
+
 ## 🌍 Let's connect  
 
 <p align="center">
