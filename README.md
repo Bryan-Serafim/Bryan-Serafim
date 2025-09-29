@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Bryan  
+## Hi there, name’s Bryan — welcome to my corner of GitHub!
 
 I'm a 19-year-old **Systems Analysis and Development student** and a passionate technology enthusiast.  
 Currently, I work as a **freelance web developer** while exploring areas that deeply inspire me, such as:  
