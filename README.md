@@ -40,7 +40,7 @@ modern web (React + Node, performance, DX)
 
 $ stack
 Python  React  JavaScript  Node  HTML  CSS  Git  Linux  VS Code
-
+```
 
 ---
 
