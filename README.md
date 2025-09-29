@@ -29,15 +29,18 @@ Currently, I work as a **freelance web developer** while exploring areas that de
 
 ---
 
-### 📊 Stats & Languages
-<div align="center">
+```bash
+$ whoami
+name's Bryan — 19yo dev • Systems Analysis student • freelance web dev
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bryan-Serafim&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=9FE8C9&icon_color=FF8AB3&title_color=FF8AB3" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Bryan-Serafim&hide_border=true&background=0d1117&ring=FF8AB3&fire=FF8AB3&currStreakLabel=9FE8C9&sideNums=9FE8C9&currStreakNum=9FE8C9&sideLabels=9FE8C9" />
-<br/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Serafim&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF8AB3&text_color=9FE8C9" />
+$ interests
+AI architectures (transformers, attention, embeddings)
+automation (data -> training -> deploy -> monitor)
+modern web (React + Node, performance, DX)
 
-</div>
+$ stack
+Python  React  JavaScript  Node  HTML  CSS  Git  Linux  VS Code
+
 
 ---
 
