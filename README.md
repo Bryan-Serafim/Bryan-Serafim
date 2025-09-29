@@ -29,35 +29,6 @@ Currently, I work as a **freelance web developer** while exploring areas that de
 
 ---
 
-<div style="background-color:#0d1117; padding:15px; border-radius:10px; border:1px solid #30363d;">
-  
-```bash
-$ whoami
-name's Bryan — 19yo dev • Systems Analysis student • freelance web dev
-
-$ interests
-AI architectures (transformers, attention, embeddings)
-automation (data -> training -> deploy -> monitor)
-modern web (React + Node, performance, DX)
-
-$ stack
-Python  React  JavaScript  Node  HTML  CSS  Git  Linux  VS Code
-
-
----
-
-## 🌍 Let's connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bryan-serafim-251898362/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:bryanserafimco@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-
 ## 🌍 Let's connect  
 
 <p align="center">
