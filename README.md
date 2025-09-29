@@ -29,6 +29,8 @@ Currently, I work as a **freelance web developer** while exploring areas that de
 
 ---
 
+<div style="background-color:#0d1117; padding:15px; border-radius:10px; border:1px solid #30363d;">
+  
 ```bash
 $ whoami
 name's Bryan — 19yo dev • Systems Analysis student • freelance web dev
@@ -40,7 +42,7 @@ modern web (React + Node, performance, DX)
 
 $ stack
 Python  React  JavaScript  Node  HTML  CSS  Git  Linux  VS Code
-```
+
 
 ---
 
