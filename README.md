@@ -46,6 +46,18 @@ Python  React  JavaScript  Node  HTML  CSS  Git  Linux  VS Code
 
 ---
 
+## 🌍 Let's connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bryan-serafim-251898362/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:bryanserafimco@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
 ## 🌍 Let's connect  
 
 <p align="center">
