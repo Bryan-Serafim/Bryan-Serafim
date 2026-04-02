@@ -1,4 +1,4 @@
-# Hi, I'm Bryan Serafim 👋🇬🇧
+# Hi, I'm Bryan Serafim
 
 I'm a **Systems Analysis and Development student** and a **web developer focused on React and modern web applications**.
 
@@ -69,7 +69,7 @@ AI-powered assistant for small-scale farmers using React, Supabase, OpenAI and V
 
 ---
 
-# Olá, eu sou Bryan Serafim 👋🇧🇷
+# Olá, eu sou Bryan Serafim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor web com foco em **React e aplicações modernas**.
 
