@@ -1,35 +1,62 @@
-## Hi there, name’s Bryan — welcome to my corner of GitHub!
+# Hi, I'm Bryan Serafim 👋🇬🇧
 
-I'm a 19-year-old **Systems Analysis and Development student** and a passionate technology enthusiast.  
-Currently, I work as a **freelance web developer** while exploring areas that deeply inspire me, such as:  
+I'm a **Systems Analysis and Development student** and a **web developer focused on React and modern web applications**.
 
-- **Artificial Intelligence & Intelligent Systems** – from neural network architectures to natural language processing, computer vision, and deep learning.  
-- **Automation & Systems Integration** – building smarter, faster, and scalable solutions.  
-- **Software Engineering & Modern Web Development** – creating applications that are both functional and elegant.  
+I build real-world projects with a focus on **performance, usability, and clean architecture**, integrating frontend interfaces with APIs and backend services.
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## 👨‍💻 About Me
+
+- 🎓 ADS student at IFRO (5th semester)  
+- 💻 Freelance web developer  
+- ⚛️ Focused on **React, JavaScript, and modern frontend development**  
+- 🔗 Experience integrating applications with APIs and backend services  
+- 🚀 Deployed real applications using Vercel  
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Website  
+Modern portfolio built with React, featuring internationalization (PT/EN) and responsive design.  
+🔗 https://bryan-portfolio-lac.vercel.app
+
+---
+
+### 📊 Akira Habit Tracker  
+Gamified habit tracking system with Supabase (PostgreSQL) and real-time data handling.  
+🔗 https://akira-brown-nine.vercel.app
+
+---
+
+### 🌾 AgroAI  
+AI-powered assistant for small-scale farmers using React, Supabase, OpenAI and Vision API.  
+🔗 https://github.com/Bryan-Serafim/agro-ai
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,nodejs,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,nodejs,postgres,git,linux,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bryan-Serafim&show_icons=true&hide_title=true&hide_border=true&bg_color=1a1b27&text_color=9fdfcd&icon_color=ff9f9f)  
+<img src="https://github-readme-stats.vercel.app/api?username=Bryan-Serafim&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Serafim&layout=compact&hide_border=true&bg_color=1a1b27&text_color=9fdfcd&title_color=ff9f9f)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-Serafim&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
 
 ---
 
-## 🌍 Let's connect  
+## 🌍 Let's connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bryan-serafim-251898362/" target="_blank">
@@ -39,3 +66,36 @@ Currently, I work as a **freelance web developer** while exploring areas that de
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+# Olá, eu sou Bryan Serafim 👋🇧🇷
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor web com foco em **React e aplicações modernas**.
+
+Desenvolvo projetos reais com foco em **performance, experiência do usuário e arquitetura limpa**, integrando frontend com APIs e serviços backend.
+
+---
+
+## 👨‍💻 Sobre Mim
+
+- 🎓 Estudante de ADS no IFRO (5º período)  
+- 💻 Desenvolvedor web freelancer  
+- ⚛️ Foco em **React, JavaScript e frontend moderno**  
+- 🔗 Experiência com integração de APIs  
+- 🚀 Aplicações publicadas em produção (Vercel)  
+
+---
+
+## 🛠️ Tecnologias
+
+- Frontend: React, JavaScript, HTML, CSS  
+- Backend: Node.js (básico), Django  
+- Banco de dados: PostgreSQL, Supabase  
+- Ferramentas: Git, GitHub, Linux  
+- Cloud & Deploy: Vercel  
+
+---
+
+⭐ Feel free to explore my repositories and get in touch!  
+⭐ Sinta-se à vontade para explorar meus repositórios e entrar em contato!
