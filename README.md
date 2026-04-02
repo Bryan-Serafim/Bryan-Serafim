@@ -5,7 +5,7 @@ I'm a **Systems Analysis and Development student** and a **web developer focused
 I build real-world applications with a focus on **performance, usability, and clean architecture**, integrating frontend interfaces with APIs and backend services.
 
 ---
-## 🌐 Portfólio
+## 🌐 Portfolio
 
 🔗 https://bryan-portfolio-lac.vercel.app/
 
